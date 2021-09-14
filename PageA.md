@@ -7,7 +7,7 @@ title: "Page A"
 
 # Page A
 
-Access Page A2
+<a href="https://benjburgess.github.io/github-pages-with-jekyll/PageA/PageA2"> Access Page A2 </a>
 
 ## A.1
 ### A.2
