@@ -1,8 +1,6 @@
 ---
 layout: default
 
-permalink: /PageA/
-
 title: "Page A"
 ---
 
