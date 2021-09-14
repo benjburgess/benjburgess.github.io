@@ -4,7 +4,7 @@ title: "Page C"
 
 permalink: /PageC/
 
-layout: page
+layout: default
 
 
 
