@@ -1,7 +1,7 @@
 ---
-layout: page
----
 title: "Page A"
+---
+layout: page
 ---
 permalink: /PageA/
 ---
