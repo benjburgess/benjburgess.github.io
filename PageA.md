@@ -12,4 +12,4 @@ title: "Page A"
 ## A.1
 ### A.2
 
-This is just some content to trial the page.
+This is just some content to trial Page A.
