@@ -7,7 +7,8 @@ title: "Page A2"
 
 # Page A2
 
-<a href="https://benjburgess.github.io/PageA"> Return to Page A </a>
+<a href="https://benjburgess.github.io/PageA"> Return to Page A using html </a>
+[Return to Page A using markdown](https://benjburgess.github.io/PageA)
 
 Some text
 
