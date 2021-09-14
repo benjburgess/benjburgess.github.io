@@ -1,11 +1,10 @@
 ---
-title: "Page C"
----
+layout: default
 
 permalink: /PageC/
 
-layout: default
-
+title: "Page C"
+---
 
 
 
