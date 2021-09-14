@@ -1,8 +1,11 @@
 ---
-title: Page B
-layout: template
-filename: PageB.md
---- 
+layout: default
+
+permalink: /PageB/
+
+title: "Page B"
+---
 
 
-This is just some content to fill out the page
+
+This is just some content to trial the page.
