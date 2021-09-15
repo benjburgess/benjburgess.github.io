@@ -8,4 +8,4 @@ title: "Page E"
   
 # Page E
   
-This is just some content to trial Page E - writtten in Rmarkdown.
+This is just some content to trial Page E.
