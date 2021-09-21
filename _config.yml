@@ -21,6 +21,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # this and add the path to the pages in order as they should show up
 header_pages:
  - Covid19Dashboard.md
+ - multiplestressR.md
  - PageA.md
  - PageB.md
  - PageC.md
