@@ -22,9 +22,9 @@ The UK Government provides an interesting dashboard (https://coronavirus.data.go
 
 [The dashboard](https://benjburgess.shinyapps.io/coviddashboard/) uses data freely available from the UK Government (under Open Government License v3.0) and automatically updates every time the dashboard is launched. Data is provided on the number of cases, the number of deaths, and the proportion of people who have been fully vaccinated. Data is available from 01/11/2020 onwards and up to four different lower tier local authorities (e.g., Westminster, County Durham, Wyre Forest) are able to be compared. Dates for which data are shown are also able to be selected by the user.
 
-
+The R code to generate this dashbaord is openly available from [my github account](github.com/benjburgess).
 
 Links to access the Covid-19 dashboard are at both the top and bottom of this page.
 
-
 [Covid-19 Dashboard](https://benjburgess.shinyapps.io/coviddashboard/)
+
