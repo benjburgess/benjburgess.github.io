@@ -18,6 +18,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
+ - Covid19Dashboard.md
  - PageA.md
  - PageB.md
  - PageC.md
