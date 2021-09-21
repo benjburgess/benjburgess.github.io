@@ -25,5 +25,5 @@ header_pages:
  - PageA.md
  - PageB.md
  - PageC.md
- - PageD.md
+# - PageD.md note that this page still exists
 # - PageE.md note that this page still exists
