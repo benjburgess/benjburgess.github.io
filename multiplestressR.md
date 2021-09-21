@@ -3,10 +3,10 @@ layout: default
 
 permalink: /multiplestressR/
   
-title: "multiplestressR Package"
+title: "*multiplestressR*"
 ---
   
-# multiplestressR
+# *multiplestressR*
   
 My time as a PhD student in computational ecology was spent using various different computational and statistical approaches to better understand how stressors (e.g., climate change, pollution, or invasive species) interact to affect ecosystems. The field of multiple stressor ecology has greatly expanded from the dozen or so papers published at the turn of the century and is continuing to grow every year. Many, if not most, of the papers in the field attempt to understand these stressors interact using null models which then allow interactions to be classified as either a *null*, *antagonistic*, *synergistic* or *reversal* interaction.
 
