@@ -3,9 +3,9 @@ author: benjburgess
 email: your-email@domain.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  benjburgess.github.io
+  benjburgess.github.io - 
    
-  Finding simple patterns from complex data.
+  Finding simple patterns in  complex data
 #Write an awesome description for your new site here. You can edit this
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
@@ -26,4 +26,4 @@ header_pages:
  - PageB.md
  - PageC.md
  - PageD.md
- - PageE.md
+# - PageE.md note that this page still exists
