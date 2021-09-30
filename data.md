@@ -18,7 +18,7 @@ Within this website I have attempted to showcase and outline a variety of differ
 
 Alongside the explanation of each method, I have also put together an Rmarkdown file which provides a complete walk-through of an example for each approach. All of the code should be able to run on any local machine, however where data is taken from external sources this will always be highlighted. 
 
-A list of the different methods and explanations is available from the links at the start and end of this page.
+A list of the different methods, explanations, and tutorials is available from the links at the start and end of this page.
 
 [Data Science and Analytics Methods](https://benjburgess.github.io/data/index)
 
