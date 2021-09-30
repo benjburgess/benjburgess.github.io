@@ -22,8 +22,9 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 header_pages:
  - Covid19Dashboard.md
  - multiplestressR.md
+ - data.md
  - PageA.md
- - PageB.md
- - PageC.md
+# - PageB.md note that this page still exists
+# - PageC.md note that this page still exists
 # - PageD.md note that this page still exists
 # - PageE.md note that this page still exists
