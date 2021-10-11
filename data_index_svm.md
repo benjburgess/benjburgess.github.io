@@ -11,7 +11,7 @@ title: "Support Vector Machines"
 
 ## Introduction
 
-Support vector machines (SVMs) are a relatively commonplace machine learning method used to classify data into two or more classes. Outlined below is an introduction to SVMs. However, I have also written two tutorials in R which provide an [introductory](https://benjburgess.github.io/i/SVM_linear) and more [advanced](https://benjburgess.github.io/i/SVM1) examples of how support vector machines can be implemented. These tutorials are available both from the links here and at the bottom of this page.
+Support vector machines (SVMs) are a relatively commonplace machine learning method used to classify data into two or more classes. Outlined below is an introduction to SVMs. However, I have also written two tutorials in R which provide an [introductory](https://benjburgess.github.io/i/SVM_linear) and more [advanced](https://benjburgess.github.io/i/SVM_radial) examples of how support vector machines can be implemented. These tutorials are available both from the links here and at the bottom of this page.
 
 
 *I'm currently writing this introductory explantion of SVMs - Check back soon!*
@@ -28,4 +28,4 @@ The [introductory tutorial](https://benjburgess.github.io/i/SVM_linear) builds a
 
 ### Advanced Tutorial
 
-The [advanced tutorial](https://benjburgess.github.io/i/SVM1) builds a more complex SVM which attempts to classify wines into different quality classes based upon chemical data for each wine. This tutorial outlines some advanced data cleaning (e.g., SCUT) and explores the potential limitations of SVMs.
+The [advanced tutorial](https://benjburgess.github.io/i/SVM_radial) builds a more complex SVM which attempts to classify wines into different quality classes based upon chemical data for each wine. This tutorial outlines some advanced data cleaning (e.g., SCUT) and explores the potential limitations of SVMs.
