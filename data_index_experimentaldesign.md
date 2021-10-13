@@ -13,7 +13,7 @@ title: "Experimental Design"
 
 Most research is concerned with using experiments to answer a particular research question. Here, I provide a basic introduction to some of the most important questions that a researcher can ask about their experimental design and the choices that may need to be made to minimize resource costs, without compromising statistical power.
 
-##Explanation
+## Explanation
 
 When designing an experiment (whether it be in biology, business, or any other field), it is crucial to ask the following question of: “*Is my experiment capable of answering my question?*” (Johnson et al., 2015). In some ways this question is obvious. For example, if conducting an A/B test to determine whether a promotion increased sales of a product, the A and B groups would need to be randomized (e.g., participant age, income, location, etc.), as if they weren’t, the results of this test might be misleading. 
 
@@ -33,7 +33,7 @@ Doing this analysis before we start our experiment is highly recommended, as oth
 
 
 
-##References
+## References
 
 Burgess, B. J., Jackson, M. C., & Murrell, D. J. (2021). Multiple stressor null models frequently fail to detect most interactions due to low statistical power. *bioRxiv*.
 
