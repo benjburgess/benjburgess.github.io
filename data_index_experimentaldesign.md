@@ -41,7 +41,7 @@ Hedges, L. V. (1981). Distribution theory for Glass's estimator of effect size a
 
 Johnson, P.C., Barry, S.J., Ferguson, H.M. and Müller, P. (2015). Power analysis for generalized linear mixed models in ecology and evolution. *Methods in Ecology and Evolution*, 6(2), 133-142.
 
-Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in Psychology, 4, 863.
+Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. *Frontiers in Psychology*, 4, 863.
 
 Lakens, D. (2021). Sample size justification. *psyarXiv*.
 
