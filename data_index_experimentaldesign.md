@@ -1,5 +1,5 @@
 ---
-  layout: default
+layout: default
 permalink: /data/index/experimentaldesign
 title: "Experimental Design"
 ---
@@ -7,7 +7,7 @@ title: "Experimental Design"
   
 # Experimental Deisgn
   
-  [Data Science and Analytics Methods](https://benjburgess.github.io/data/index)
+[Data Science and Analytics Methods](https://benjburgess.github.io/data/index)
 
 ## Introduction
 
