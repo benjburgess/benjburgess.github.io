@@ -12,6 +12,11 @@ Outlined below are outlines and descriptions of various approaches from the fiel
 
 *This website has only recently been put together, but over time more examples will be added!*
 
+## Statistics
+
+[Experimental Design](https://benjburgess.github.io/data/index/experimentaldesign)
+
+
 ## Machine Learning
 
 [Support Vector Machines (SVMs)](https://benjburgess.github.io/data/index/svm)
