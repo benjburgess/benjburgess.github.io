@@ -8,7 +8,7 @@ title: "Covid-19 Dashboard"
   
 # Covid-19 Dashboard
 
-[Covid-19 Dashboard](https://benjburgess.shinyapps.io/coviddashboard/)
+[Covid-19 Dashboard](https://benjburgess.shinyapps.io/covid19_ltla_dashboard/)
 
 
 
@@ -18,13 +18,13 @@ Such geographic disparities have also been evident with the rise of new Covid va
 
 Case and death rates of Covid-19 have fluctated over time, with this due to the transmissibility of different variants (e.g., alpha, delta), the implementation of restrictions (e.g., social distancing), and the roll-out of vaccinations. As such, the prevalence of Covid-19 has varied both geographically and temporally.
 
-The UK Government provides an interesting dashboard (https://coronavirus.data.gov.uk/details/) with the ability to breakdown various measures and statistics by different localities. However, it does not easily allow for comparisons of the same metric (e.g. number of cases) across time for multiple different locations. Accordingly, given that these comparisons are not easy to make using the UK Government's own dashboard, I built [my own dashboard](https://benjburgess.shinyapps.io/coviddashboard/) (written in R using Shiny) which generates various figures and allows such comparisons to be made.
+The UK Government provides an interesting dashboard (https://coronavirus.data.gov.uk/details/) with the ability to breakdown various measures and statistics by different localities. However, it does not easily allow for comparisons of the same metric (e.g. number of cases) across time for multiple different locations. Accordingly, given that these comparisons are not easy to make using the UK Government's own dashboard, I built [my own dashboard](https://benjburgess.shinyapps.io/covid19_ltla_dashboard/) (written in R using Shiny) which generates various figures and allows such comparisons to be made.
 
-[The dashboard I built](https://benjburgess.shinyapps.io/coviddashboard/) uses data freely available from the UK Government (under Open Government License v3.0) and automatically updates every time the dashboard is launched. Figures are generated for the number of cases, the number of deaths, and the proportion of people who have been fully vaccinated in different geographic areas. Data is available from 01/11/2020 onwards and up to four different lower tier local authorities (e.g., Westminster, County Durham, Wyre Forest) are able to be compared in a single figure. The dates for which data are shown in the figures is also able to be selected by the user.
+[The dashboard I built](https://benjburgess.shinyapps.io/covid19_ltla_dashboard/) uses data freely available from the UK Government (under Open Government License v3.0) and automatically updates every time the dashboard is launched. Figures are generated for the number of cases, the number of deaths, and the proportion of people who have been fully vaccinated in different geographic areas. Data is available from 01/11/2020 onwards and up to four different lower tier local authorities (e.g., Westminster, County Durham, Wyre Forest) are able to be compared in a single figure. The dates for which data are shown in the figures is also able to be selected by the user.
 
-The R code to generate this dashbaord is openly available from [my github account](https://github.com/benjburgess).
+The R code to generate this dashbaord is openly available from [my github account](https://github.com/benjburgess/CovidDashboard).
 
 Links to access the Covid-19 dashboard are at both the top and bottom of this page.
 
-[Covid-19 Dashboard](https://benjburgess.shinyapps.io/coviddashboard/)
+[Covid-19 Dashboard](https://benjburgess.shinyapps.io/covid19_ltla_dashboard/)
 
