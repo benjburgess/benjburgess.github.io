@@ -20,7 +20,7 @@ Alongside the explanation of each method, I have also put together an Rmarkdown 
 
 A list of the different methods, explanations, and tutorials is available from the links at the start and end of this page.
 
-[Data Science and Analytics Methods](https://benjburgess.github.io/data/index)
+[Data Science and Analytics Examples](https://benjburgess.github.io/data/index)
 
 
 
