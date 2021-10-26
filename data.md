@@ -8,7 +8,7 @@ title: "Data Science and Analytics"
 # Data Science and Analytics
 
 
-[Data Science and Analytics Methods](https://benjburgess.github.io/data/index)
+[Data Science and Analytics Examples](https://benjburgess.github.io/data/index)
 
 A [recent review](https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/dynamics-of-data-science-skills-report.pdf) by the Royal Society has outlined that there is an increasing demand for data-driven skills across the UK. For instance, this report highlights that between 2013 and 2017/18 there has been a 43% increase in the number of advertised data analyst jobs, while listings for data scientists have increased by 1287% in the same period. Given the vast quantities of data which are being generated, there is a need for individuals with analytical skillsets to make sense of this information and in doing so allow organisations or businesses to make better, or more informed, decisions.
 

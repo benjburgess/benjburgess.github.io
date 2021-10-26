@@ -7,7 +7,7 @@ title: "Support Vector Machines"
   
 # Support Vector Machines
   
-[Data Science and Analytics Methods](https://benjburgess.github.io/data/index)
+[Data Science and Analytics Examples](https://benjburgess.github.io/data/index)
 
 ## Introduction
 
