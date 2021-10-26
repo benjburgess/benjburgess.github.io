@@ -10,7 +10,7 @@ title: "Covid-19 Dashboard"
 
 [Covid-19 Dashboard](https://benjburgess.shinyapps.io/covid19_ltla_dashboard/)
 
-
+[Tableau Dashboard](https://public.tableau.com/app/profile/ben.burgess/viz/Covid-19DashboardRegion_Age/Dashboard2?publish=yes)
 
 Since the start of the Covid-19 pandemic in March 2020, it has been apparent that the occurrence and spread of the virus is not geographically uniform. In England this has been seen with places such as Leicester and Manchester being placed under strignet restrictions at various points in 2020, while other areas were simultaneously under less strict measures. 
 
