@@ -21,6 +21,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 header_pages:
  - data.md
  - multiplestressR.md
+ - publications.md
  - PageA.md
 # - PageB.md note that this page still exists
 # - PageC.md note that this page still exists
