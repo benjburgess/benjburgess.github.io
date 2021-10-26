@@ -19,8 +19,8 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - multiplestressR.md
  - data.md
+ - multiplestressR.md
  - PageA.md
 # - PageB.md note that this page still exists
 # - PageC.md note that this page still exists
