@@ -1,9 +1,9 @@
 ---
-  layout: default
+layout: default
 
 permalink: /data/index/dataviz/
   
-  title: "Data Visualisation"
+title: "Data Visualisation"
 ---
   
 # Data Visualisation
