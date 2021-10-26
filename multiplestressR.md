@@ -3,7 +3,7 @@ layout: default
 
 permalink: /multiplestressR/
   
-title: "multiplestressR - R Package"
+title: "multiplestressR"
 ---
   
 # *multiplestressR* - R Package
