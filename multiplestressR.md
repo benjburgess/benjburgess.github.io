@@ -19,9 +19,7 @@ The *multiplestressR* package is applicable to anyone using null models to class
 The *multiplestressR* package is available from CRAN and can be installed in R using the following code:
 
 ```
-{
 install.packages("multiplestressR")
-}
 ```
 
 I have also put together an [introductory tutorial](https://benjburgess.github.io/i/multiplestressR1) on the *multiplestressR* package, showcasing how an analysis can be conducted using the package.
