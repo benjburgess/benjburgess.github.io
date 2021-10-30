@@ -16,9 +16,15 @@ In an attempt to remove these methodological differences, I have written an R pa
 
 The *multiplestressR* package is applicable to anyone using null models to classify interactions from individual experiments through to meta-analyses. As such, the hope is that by using a single, consistent, rigourous framework to classify interactions, studies can be more easily compared and any differences between the studies can hence be attributed to ecological or environmental factors not methodological differences.
 
-The *multiplestressR* package has been submitted to CRAN and is currently available from [my github account](https://github.com/benjburgess/multiplestressR) where it can be installed in R using two lines of code.
+The *multiplestressR* package is available from CRAN and can be installed in R using the following code:
 
-I have also put together an [introductory tutorial](https://benjburgess.github.io/i/multiplestressR1) on the *multiplestressR* package, including how to install the package on your local machine.
+```
+{
+install.packages("multiplestressR")
+}
+```
+
+I have also put together an [introductory tutorial](https://benjburgess.github.io/i/multiplestressR1) on the *multiplestressR* package, showcasing how an analysis can be conducted using the package.
 
 Over the next few weeks I will likewise be putting together another tutorial on how the *multiplestressR* package can be applied to meta-analytical datasets.
 
