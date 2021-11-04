@@ -13,17 +13,16 @@ Outlined below are outlines and descriptions of various approaches from the fiel
 
 *This website has only recently been put together, but over time more examples will be added!*
 
-## General Analyses
-
-[Data Visualisation](https://benjburgess.github.io/data/index/dataviz)
 
 
-## Statistics
+
+## Statistics, Data Modelling, and Machine Learning
 
 [Experimental Design](https://benjburgess.github.io/data/index/experimentaldesign)
 
-
-## Machine Learning
-
 [Support Vector Machines (SVMs)](https://benjburgess.github.io/data/index/svm)
 
+
+## General Coding and Analyses
+
+[Data Visualisation](https://benjburgess.github.io/data/index/dataviz)
