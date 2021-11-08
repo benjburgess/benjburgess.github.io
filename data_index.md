@@ -11,7 +11,7 @@ title: "Data Science and Analytics Methods"
 Outlined below are outlines and descriptions of various approaches from the fields of data science and analytics. Each link comprises either a short introductory explanation coupled with example R code or interactive dashboards.
 
 
-*This website has only recently been put together, but over time more examples will be added!*
+*I'm constantly adding more examples, so check back here again soon!*
 
 
 ## General Coding and Analyses
