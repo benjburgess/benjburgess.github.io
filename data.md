@@ -1,6 +1,8 @@
 ---
 layout: default
 
+permalink: /data/
+
 title: "Data Science and Analytics"
 ---
 
