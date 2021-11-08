@@ -27,7 +27,3 @@ header_pages:
 # - PageC.md note that this page still exists
 # - PageD.md note that this page still exists
 # - PageE.md note that this page still exists
-
-minima:
-  skin: solarized
-  date_format: "%b %-d, %Y"
