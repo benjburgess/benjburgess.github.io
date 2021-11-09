@@ -18,4 +18,4 @@ I love **problem-solving**, and it's especially rewarding when dealing with
 To learn more **about me and see my CV**, check out the [*Bio & CV*](https://benjburgess.github.io/about/) section of this site.  
   
 Alternatively, you can find out more about my [*data analysis tutorials and demonstrations*](https://benjburgess.github.io/data); 
-[*scientific publications*](https://benjburgess.github.io/publications/); or [*R package*](https://benjburgess.github.io/multiplestressR/).
+[*scientific publications*](https://benjburgess.github.io/publications/); or the [*multiplestressR R package*](https://benjburgess.github.io/multiplestressR/).
