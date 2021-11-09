@@ -17,4 +17,4 @@ I love **problem-solving**. Whether it's figuring out how to code a new analysis
 To learn more **about me and see my CV**, check out the [*Bio & CV*](https://benjburgess.github.io/about/) section of this site.  
   
 Alternatively, you can find out more about my [*data analysis tutorials and demonstrations*](https://benjburgess.github.io/data); 
-[*scientific publications*](https://benjburgess.github.io/publications/); or the [*multiplestressR R package*](https://benjburgess.github.io/multiplestressR/).
+[*ecological research*](https://benjburgess.github.io/ecology/) and [*scientific publications*](https://benjburgess.github.io/publications/); or the [*multiplestressR R package*](https://benjburgess.github.io/multiplestressR/).
