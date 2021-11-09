@@ -2,12 +2,15 @@
 title: "Ben Burgess"
 ---
 
-
+new text trial
 
 ![homepage_photo](https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg)  
+    
+<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="75%">  
+
+<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="50%">  
   
-
-
+<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="25%">  
 
 I'm Ben Burgess, and I've recently submitted my PhD thesis in Computational Ecology at UCL.  
   
