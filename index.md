@@ -6,11 +6,11 @@ new text trial
 
 ![homepage_photo](https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg)  
     
-<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="75%">  
+<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="75%" align = "center">  
 
-<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="50%">  
+<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="50%" align = "center">   
   
-<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="25%">  
+<img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="25%" align = "center">   
 
 I'm Ben Burgess, and I've recently submitted my PhD thesis in Computational Ecology at UCL.  
   
@@ -19,6 +19,7 @@ statistical approaches to explore how multiple perturbations affect complex syst
 I've made some really interesting discoveries over this time, including finding 
 consistent patterns across a variety of disparate large-scale datasets.  
   
+I love problem-solving, and it's especially rewarding when dealing with 
 
 To learn more about me and see my CV, check out the [*Bio & CV*]() section of this site.  
   
