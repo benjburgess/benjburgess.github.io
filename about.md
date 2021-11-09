@@ -3,7 +3,7 @@ layout: default
 
 permalink: /about/
 
-title: "About Me"
+title: "Bio & CV"
 ---
 
 
