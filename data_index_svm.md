@@ -29,7 +29,7 @@ The [introductory tutorial](https://benjburgess.github.io/i/SVM_linear) builds a
 
 ### Advanced Tutorial
 
-The [advanced tutorial](https://benjburgess.github.io/i/SVM_radial) builds a more complex SVM which attempts to classify wines into different quality classes based upon chemical data for each wine. This tutorial outlines some advanced data cleaning (e.g., SCUT) and explores the potential limitations of SVMs.
+The [advanced tutorial](https://benjburgess.github.io/i/SVM_radial) builds a more complex SVM which attempts to classify wines into different quality classes based upon chemical data for each wine. This tutorial outlines some more advanced data cleaning (e.g., SCUT) and management (e.g., PCA) and the different measures by which SVM performance can be assessed.
 
 
 ## Introductory Explanations of SVMs
