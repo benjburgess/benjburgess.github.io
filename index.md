@@ -9,10 +9,11 @@ I'm **Ben Burgess**, and I've recently completed my **PhD in Computational Ecolo
   
 Over the past four years I've been using a variety of **computational and statistical approaches** to 
 explore how multiple perturbations affect complex systems. 
-I've made some really interesting discoveries over this time, including finding 
-consistent patterns across a variety of disparate large-scale datasets.  
+I've made some really interesting (and novel) discoveries over this time. 
+For instance, I've been able to show that the contrasting results of a dozen or so high-profile papers are due to 
+methodological differences and not ecological or environmental factors as previously assumed. 
   
-I love **problem-solving**. It would be figuring out how to code a new analysis in **R**, **helping others** overcome obstacles, or **teaching myself new skills**; through all of these activities I enjoy the overcoming the challenges they present.  
+More broadly, I love **problem-solving**. It could be figuring out how to code a new analysis in **R**, **helping others** overcome obstacles, or **teaching myself new skills**; through all of these activities I enjoy overcoming the challenges they present.  
   
 To learn more **about me and see my CV**, check out the [*Bio / CV*](https://benjburgess.github.io/about/) section of this site.  
   
