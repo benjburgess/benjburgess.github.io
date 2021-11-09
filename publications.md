@@ -9,7 +9,7 @@ title: "Publications"
 # Publications
 
   
-Over the course of my PhD in Computational Ecology, I have led several different analyses and collaborated on others. Several of these projects have been published in scientific journals while others are currently being written up for submission. Outlined below are the projects which have currently been published, with more to be added in due course. Each publication is open access, with a link to each publication provided.
+Over the course of my PhD in Computational Ecology, I have led several different analyses and collaborated on others. Several of these projects have been published in scientific journals while others are currently being written up for submission. Outlined below are the projects which have currently been published, with more to be added in due course. Each publication is open access, with a link to each paper provided.
 
 
 **Burgess, B. J.**, Purves, D., Mace, G., & Murrell, D. J. (2021). Classifying ecosystem stressor interactions: Theory highlights the data limitations of the additive null model and the difficulty in revealing ecological surprises. [*Global Change Biology*](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15630), 27, 3052-3065.

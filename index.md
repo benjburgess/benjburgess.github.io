@@ -12,9 +12,9 @@ explore how multiple perturbations affect complex systems.
 I've made some really interesting discoveries over this time, including finding 
 consistent patterns across a variety of disparate large-scale datasets.  
   
-I love **problem-solving**. Whether it's figuring out how to code a new analysis in **R**, **helping others** overcome obstacles, or **teaching myself new skills**, I enjoy the overcoming the challenges these problems present.  
+I love **problem-solving**. It would be figuring out how to code a new analysis in **R**, **helping others** overcome obstacles, or **teaching myself new skills**; through all of these activities I enjoy the overcoming the challenges they present.  
   
 To learn more **about me and see my CV**, check out the [*Bio / CV*](https://benjburgess.github.io/about/) section of this site.  
   
-Alternatively, you can find out more about my [*data analysis tutorials and demonstrations*](https://benjburgess.github.io/data); 
+Alternatively, you can find out more about my [*data science/analytics demonstrations*](https://benjburgess.github.io/data); 
 [*ecological research*](https://benjburgess.github.io/ecology/) and [*scientific publications*](https://benjburgess.github.io/publications/); or the [*multiplestressR R package*](https://benjburgess.github.io/multiplestressR/).
