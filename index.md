@@ -4,7 +4,7 @@ title: "Ben Burgess"
 
 
 
-![homepage_photo](https://github.com/benjburgess/benjburgess.github.io/blob/c31e9966cab1b930a97eb3b363b663658b6bdcab/assets/Screenshot_20211012-190225_Gallery2.jpg)  
+![homepage_photo](https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg)  
   
 
 
