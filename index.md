@@ -2,11 +2,13 @@
 title: "Ben Burgess"
 ---
 
-new text trial
+new text trial2
 
 ![homepage_photo](https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg)  
     
 <img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="75%" align = "center">  
+
+<div style="text-align:center"><img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="33%"/></div>
 
 <img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="50%" align = "center">   
   
