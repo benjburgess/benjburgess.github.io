@@ -3,8 +3,7 @@ title: "Ben Burgess"
 ---
 
 
-<div style="text-align:center"><img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="33%"/></div>
-<br />
+<div style="text-align:center"><img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="50%"/></div>
 <br />
 I'm **Ben Burgess**, and I've recently completed my **PhD in Computational Ecology at UCL**.  
   
