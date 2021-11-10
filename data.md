@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Data Science / Analytics"
+title: "Data Science | Analytics"
 ---
 
 

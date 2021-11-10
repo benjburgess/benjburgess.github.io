@@ -12,7 +12,7 @@ methodological differences and not ecological or environmental factors as previo
   
 More broadly, I love **problem-solving**. It could be figuring out how to code a new analysis in **R**, **helping others** overcome obstacles, or **teaching myself new skills**; through all of these activities I enjoy overcoming the challenges they present.  
   
-To learn more **about me and see my CV**, check out the [*Bio / CV*](https://benjburgess.github.io/about/) section of this site.  
+To learn more **about me and see my CV**, check out the [*Bio | CV*](https://benjburgess.github.io/about/) section of this site.  
   
-Alternatively, you can find out more about my [*data science/analytics demonstrations*](https://benjburgess.github.io/data); 
+Alternatively, you can find out more about my [*data science and analytics demonstrations*](https://benjburgess.github.io/data); 
 [*ecological research*](https://benjburgess.github.io/ecology/) and [*scientific publications*](https://benjburgess.github.io/publications/); or the [*multiplestressR R package*](https://benjburgess.github.io/multiplestressR/).
