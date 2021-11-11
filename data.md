@@ -7,7 +7,7 @@ title: "Data Science | Analytics"
 
 # Data Science and Analytics
 
-<div style="text-align:center"><img src="https://benjburgess.github.io/assets/pca_animation.gif" width="33%"/></div>
+<div style="text-align:center"><img src="https://benjburgess.github.io/assets/pca_animation.gif" width="50%"/></div>
 <br />
 
 [Data Science and Analytics Examples](https://benjburgess.github.io/data/index/)
