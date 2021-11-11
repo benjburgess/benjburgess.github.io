@@ -27,6 +27,4 @@ install.packages("multiplestressR")
 
 I have also put together an [introductory tutorial](https://benjburgess.github.io/i/multiplestressR1) on the *multiplestressR* package, showcasing how an analysis can be conducted using the package.
 
-Over the next few weeks I will likewise be putting together another tutorial on how the *multiplestressR* package can be applied to meta-analytical datasets.
-
 
