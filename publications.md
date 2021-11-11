@@ -7,10 +7,10 @@ title: "Publications"
 ---
   
 # Publications
-
-<br />
+  
+<br />  
 <div style="text-align:center"><img src="https://benjburgess.github.io/assets/Paper_Title.jpg" width="66%"/></div>
-<br />
+<br />  
   
 Over the course of my PhD in Computational Ecology, I have led several different analyses and collaborated on others. Several of these projects have been published in scientific journals while others are currently being written up for submission. Outlined below are the projects which have currently been published, with more to be added in due course. Each publication is open access, with a link to each paper provided.
 
