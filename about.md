@@ -17,3 +17,17 @@ title: "Bio | CV"
 <br />
 I'm in the process of putting this page together - check back soon!
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="text-align:center">
+  <img src="https://benjburgess.github.io/assets/CV_Download.png" width="18%"/>
+  <img src="https://benjburgess.github.io/assets/CV_View.png" width="18%"/>
+</div>
