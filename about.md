@@ -12,10 +12,7 @@ title: "Bio | CV"
 <div style="text-align:center">
 <img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="40%"/>
 </div>
-<div style="text-align:center">
-<a href="https://benjburgess.github.io/files/CV_Burgess_Github.pdf" download>
-<img src="https://benjburgess.github.io/assets/DownloadCV.png" width="25%"/></a>
-</div>
+
 
 
 <br />
@@ -28,7 +25,3 @@ Having recently submitted my PhD (final exam at the start of December), **I'm cu
 If my skills and experience sound like a good fit for your organisation, feel free to download my CV or get in touch via email (benjamin.joshua.burgess [at] gmail.com)! 
 <br />
 
-<div style="text-align:center">
-<a href="https://benjburgess.github.io/files/CV_Burgess_Github.pdf" download>
-<img src="https://benjburgess.github.io/assets/DownloadCV.png" width="25%"/></a>
-</div>
