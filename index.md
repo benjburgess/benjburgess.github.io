@@ -2,7 +2,7 @@
 
 <div style="text-align:center"><img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="50%"/></div>
 <br />
-I'm **Ben Burgess**, and I've recently completed my **PhD in Computational Ecology at UCL**.  
+I'm **Ben Burgess**, and I've recently been awarded a **PhD in Computational Ecology at UCL**.  
   
 Over the past four years I've been using a variety of **computational and statistical approaches** to 
 explore how multiple perturbations affect complex systems. 
