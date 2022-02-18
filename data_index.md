@@ -23,6 +23,8 @@ Outlined below are outlines and descriptions of various approaches from the fiel
 
 [Experimental Design](https://benjburgess.github.io/data/index/experimentaldesign)
 
+[Network Meta-analyses](https://benjburgess.github.io/data/index/nma)
+
 [Support Vector Machines (SVMs)](https://benjburgess.github.io/data/index/svm)
 
 
