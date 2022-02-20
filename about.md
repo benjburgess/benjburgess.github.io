@@ -12,9 +12,8 @@ title: "Bio | CV"
 <div style="text-align:center">
 <img src="https://benjburgess.github.io/assets/Screenshot_20211012-190225_Gallery2.jpg" width="40%"/>
 </div>
-<br />
 <div style="text-align:center">
-<a href="https://benjburgess.github.io/assets/CV_One_Page_Github" download="download">
+<a href="https://benjburgess.github.io/assets/CV_One_Page_Github.pdf" download="download">
 <img src="https://benjburgess.github.io/assets/DownloadCV.png" width="30%">
 </a>
 </div>
