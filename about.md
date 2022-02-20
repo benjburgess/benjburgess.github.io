@@ -20,16 +20,16 @@ title: "Bio | CV"
 </a>
 </div>
 
-<a href="https://benjburgess.github.io/assets/DownloadCV.png">Download File</a>
+<a href="https://benjburgess.github.io/assets/DownloadCV.png" download="download">Download File</a>
 
 <div style="text-align:center">
-<a href="https://benjburgess.github.io/assets/DownloadCV.png">
+<a href="https://benjburgess.github.io/assets/DownloadCV.png" download="download">
 <img src="https://benjburgess.github.io/assets/DownloadCV.png" width="30%">
 </a>
 </div>
 
 
-<a href="https://benjburgess.github.io/assets/DownloadCV.png">
+<a href="https://benjburgess.github.io/assets/DownloadCV.png" download="download">
 <img src="https://benjburgess.github.io/assets/DownloadCV.png" width="30%">
 </a>
 
